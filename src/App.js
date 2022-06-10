@@ -74,9 +74,21 @@ export default function App() {
  const [maxsalary, setMaxsalary] = React.useState("");
  const [jobTitle, setJobTitle] = React.useState("");
  const [minsalary, setMinsalary] = React.useState("");
- const handleClose = () => {setOpen(false);};
+ const handleClose = () => {
+   setOpen(false);
+   setJobID("")
+   setMaxsalary("")
+   setJobTitle("")
+   setMinsalary("")
+};
 const [open1, setOpen1] = React.useState(false);
-const handleClose1 = () => {setOpen1(false);};
+const handleClose1 = () => {
+  setOpen1(false);
+  setJobID("")
+  setMaxsalary("")
+  setJobTitle("")
+  setMinsalary("")
+};
 const handleClickOpen1 = () => {setOpen1(true);};
 
   const getAllRecords=()=>
