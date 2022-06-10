@@ -1,0 +1,8 @@
+{
+    "jobData": {
+        "getAll": "https://jobtable.herokuapp.com/api/v1/jobs",
+        "post": "http://localhost:8091/api/v1/jobs",
+        "put": "http://localhost:8091/api/v1/jobs",
+        "delete": "http://localhost:8091/api/v1/jobs"
+    }
+}

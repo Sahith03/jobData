@@ -1,0 +1,46 @@
+{
+    "job": [
+        {
+            "id": 1,
+            "jobID": "AD_PRES",
+            "jobTitle": "President",
+            "minsalary": "20080.00",
+            "maxsalary": "40000.00"
+        },
+        {
+            "id": 2,
+            "jobID": "FI_MGR",
+            "jobTitle": "Finance Manager",
+            "minsalary": "8200.00",
+            "maxsalary": "16000.00"
+        },
+        {
+            "id": 3,
+            "jobID": "SA_MAN",
+            "jobTitle": "Sales Manager",
+            "minsalary": "10000.00",
+            "maxsalary": "20080.00"
+        },
+        {
+            "id": 4,
+            "jobID": "PU_MAN",
+            "jobTitle": "Purchasing Manager",
+            "minsalary": "8000.00",
+            "maxsalary": "15000.00"
+        },
+        {
+            "id": 5,
+            "jobID": "MK_MAN",
+            "jobTitle": "Marketing Manager",
+            "minsalary": "9000.00",
+            "maxsalary": "15000.00"
+        },
+        {
+            "id": 6,
+            "jobID": "AC_ACCOUNT",
+            "jobTitle": "Public Accountant",
+            "minsalary": "4200.00",
+            "maxsalary": "9000.00"
+        }
+    ]
+}
